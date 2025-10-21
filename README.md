@@ -64,6 +64,19 @@ Enter video duration: 10:45
 | id     | INTEGER | Primary Key |
 | name   | TEXT    | Video Title |
 | time   | TEXT    | Duration    |
+## 🌟 About This Project
+
+💼 Lightweight & Efficient – A minimal Python CLI app designed to manage YouTube video details locally using SQLite.
+
+🧱 No Extra Dependencies – Runs entirely on Python’s standard library, ensuring easy setup and portability.
+
+🧠 Educational Value – Great for beginners learning database integration, CRUD operations, and Python CLI development.
+
+🔒 Local Data Storage – Keeps your video records secure and offline in a simple SQLite database.
+
+⚙️ Developer-Friendly Design – Clean, well-structured code that’s easy to extend with new features.
+
+🚀 Practical Use Case – Ideal for small projects, personal use, or as a foundation for more advanced video management tools.
 
 ---
 
